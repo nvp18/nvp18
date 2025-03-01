@@ -5,6 +5,9 @@
 - 🔧 Skills: Java, Spring Boot, React, AWS, GitHub Actions, Microservices
 - 📫 Reach me: [LinkedIn](https://linkedin.com/in/aditya-nvp/) | [GitHub](https://github.com/nvp18)
 
+## 🚀 GitHub Summary
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nvp18&theme=github_dark)
+
 ## 🚀 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvp18&layout=compact&theme=dark)
 
