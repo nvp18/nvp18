@@ -24,9 +24,6 @@
 ![Mockito](https://img.shields.io/badge/Mockito-00ADD8?style=for-the-badge&logo=testing-library&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge&logo=testng&logoColor=white)
 
-## 🚀 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvp18&layout=compact&theme=dark)
-
 ## Certifications
 - 🏆 [AWS Certified Developer - Associate](https://www.credly.com/badges/67be1a6a-e637-41d7-989c-f9b5eac2edc1/public_url)
 - ☁️ [AWS Certified Cloud Practitioner](https://www.credly.com/badges/15fc1d0d-5311-4fab-aa5a-39ebc787be84/linked_in_profile)
