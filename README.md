@@ -11,3 +11,5 @@
 - 🎓 [Advanced Certificate Program in Cloud Computing](https://www.credential.net/fc874555-d385-4c51-ba0b-42b3b8e2b422#gs.4tpri9)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nvp18&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=nvp18&theme=dark&hide_border=true)
+
