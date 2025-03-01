@@ -5,8 +5,24 @@
 - 🔧 Skills: Java, Spring Boot, React, AWS, GitHub Actions, Microservices
 - 📫 Reach me: [LinkedIn](https://linkedin.com/in/aditya-nvp/) | [GitHub](https://github.com/nvp18)
 
-## 🚀 GitHub Summary
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nvp18&theme=github_dark)
+## Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![J2EE](https://img.shields.io/badge/J2EE-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=architectural-design&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-00ADD8?style=for-the-badge&logo=testing-library&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge&logo=testng&logoColor=white)
 
 ## 🚀 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvp18&layout=compact&theme=dark)
