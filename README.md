@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Aditya
-- 🎓 Master's in Software Engineering at UMD (GPA: 3.88/4)
+- 🎓 Master's in Software Engineering at UMD (GPA: 3.9/4)
 - 💼 Software Engineer | Ex-Infosys (PayPal)
 - 🌱 Passionate about Cloud Computing & Software Development
 - 🔧 Skills: Java, Spring Boot, React, AWS, GitHub Actions, Microservices
